@@ -1,0 +1,2 @@
+From the graphs in this folder, it can be seen that Gradient Bossting machine is more adaptive than SVM. 
+The greatest result achieved was 0.81.This research was data specific.
